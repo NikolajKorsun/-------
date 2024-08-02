@@ -7,20 +7,20 @@ Onest is a variable font with this axis:
   wght
 
 This means all the styles are contained in a single file:
-  Onest/Onest-VariableFont_wght.ttf
+  Onest-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
 in those cases you can use the static font files for Onest:
-  Onest/static/Onest-Thin.ttf
-  Onest/static/Onest-ExtraLight.ttf
-  Onest/static/Onest-Light.ttf
-  Onest/static/Onest-Regular.ttf
-  Onest/static/Onest-Medium.ttf
-  Onest/static/Onest-SemiBold.ttf
-  Onest/static/Onest-Bold.ttf
-  Onest/static/Onest-ExtraBold.ttf
-  Onest/static/Onest-Black.ttf
+  static/Onest-Thin.ttf
+  static/Onest-ExtraLight.ttf
+  static/Onest-Light.ttf
+  static/Onest-Regular.ttf
+  static/Onest-Medium.ttf
+  static/Onest-SemiBold.ttf
+  static/Onest-Bold.ttf
+  static/Onest-ExtraBold.ttf
+  static/Onest-Black.ttf
 
 Get started
 -----------
